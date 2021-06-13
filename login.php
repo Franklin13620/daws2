@@ -376,7 +376,7 @@ include ("animacion.html")
             <!-- BEGIN REGISTRATION FORM -->
             <form class="register-form" action="" method="post">
                 <h3 class="font-green">Crear Cuenta</h3>
-                <p class="hint"> Ingrese los datos para registrarse: </p>
+                <p class="hint"> Ingrese los datos de registro: </p>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Apellido</label>
                     <input  id="apellido" class=" form-control input-circle2" type="text" required placeholder="Apellido" name="apellido" />
@@ -409,10 +409,10 @@ include ("animacion.html")
                 </div>
                 <p class="hint"> Contraseña: </p>
                  <div class="form-group">
-                    <label class="control-label visible-ie8 visible-ie9">Password</label>
+                    <label class="control-label visible-ie8 visible-ie9">Contraseña</label>
                     <input class="form-control placeholder-no-fix input-circle2" type="password" autocomplete="off" id="register_password" placeholder="Password" name="password" /> </div>
                 <div class="form-group">
-                    <label class="control-label visible-ie8 visible-ie9">Repita su Password</label>
+                    <label class="control-label visible-ie8 visible-ie9">Repita su contraseña</label>
                     <input class="form-control placeholder-no-fix input-circle2" type="password" autocomplete="off" placeholder="Repita su contraseña" name="rpassword" /> </div>
                 <div class="form-group margin-top-20 margin-bottom-20">
 

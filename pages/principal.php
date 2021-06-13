@@ -5,7 +5,7 @@
                         <div class="widget-subscribe widget-subscribe-quote widget-bg-color-verdezipi">
                             <h2 class="widget-subscribe-title widget-title-color-black text-uppercase">Pasos para
                                 <br/>Pagar</h2>
-                            <p class="widget-subscribe-subtitle widget-title-color-white">Estos son los pasoss a seguir para procesar su solicitud.
+                            <p class="widget-subscribe-subtitle widget-title-color-white">Estos son los pasos a seguir para procesar su solicitud.
                                  Pedido
                             </p>
                         </div>
@@ -28,8 +28,8 @@
                             <span class="widget-subscribe-no">2</span>
                             <h2 class="widget-subscribe-title widget-title-color-gray-dark text-uppercase">Realizar tu
                                 <br/>  pago</h2>
-                            <p class="widget-subscribe-subtitle widget-title-color-dark-light">Realizar pago Mediante el medio de tu preferencia
-                               Bancos Disponibles
+                            <p class="widget-subscribe-subtitle widget-title-color-dark-light">Realizar pago como usted prefiera!
+                               Bancos!
                             </p>
                         </div>
                         <!-- END WIDGET SUBSCRIBE -->

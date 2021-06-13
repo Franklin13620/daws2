@@ -1,7 +1,7 @@
 <!--footer-->
    <div style="background-color:#2b3643;" class="page-footer azul">
          <center>   <div class="page-footer-inner"> <?php echo  $hoy2 = date("Y"); ?> &copy; <?php echo $nameadmin ?>
-                <a  title="Contacta con +503 70145017" target="_blank">Contacto</a></center>
+                <a  title="Contacta con +503 70145017" target="_blank">Contactanos</a></center>
             </div>
             <div class="scroll-to-top">
                 <i class="icon-arrow-up"></i>

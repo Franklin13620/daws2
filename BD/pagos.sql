@@ -7,6 +7,9 @@
 -- Versión del servidor: 10.1.37-MariaDB
 -- Versión de PHP: 5.6.40
 
+CREATE DATABASE pagos;
+USE pagos;
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;

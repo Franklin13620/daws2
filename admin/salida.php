@@ -18,7 +18,7 @@ $hora = date("H:i:s",time()-3600);
 
                  $x1=$_GET["codigo"];
                 if( $x1=="" ){
-                    echo "<script> alert('campos vacios')</script>";
+                    echo "<script> alert('campo vacio')</script>";
                     echo "<br>";
                 }else{
                                 $sql3="delete from `salida` where `id_salida`='".$x1."'";

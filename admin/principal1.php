@@ -51,7 +51,7 @@
                                     <div class="caption">
                                         <i class="icon-share font-blue"></i>
                                         <span class="caption-subject font-blue bold uppercase">Entradas</span>
-                                        <span class="caption-helper">reportes...</span>
+                                        <span class="caption-helper">Reporte...</span>
                                     </div>
                                    
                                 </div>
@@ -72,7 +72,7 @@
                                     <div class="caption">
                                         <i class="icon-globe font-red"></i>
                                         <span class="caption-subject font-red bold uppercase">Salidas</span>
-                                        <span class="caption-helper">reportes...</span>
+                                        <span class="caption-helper">Reporte...</span>
                                     </div>
                                 </div>
                                 <div class="portlet-body">

@@ -179,7 +179,7 @@
    top: -5.5%;
   -ms-transform: rotate(7deg); /* IE 9 */
   left: 64%;
-  background: #a5bf0a  no-repeat;
+  background: #9daa5b  no-repeat;
   -webkit-transition: all 2s ease-in-out;
   transition-durationion: all 2s ease-in-out;  /* Ensures that the element is being transformed in the 3d context so that hw acceleration kicks in where appropriate. */
   -webkit-transform: translate3d(0,0,0);
@@ -193,7 +193,7 @@
   top: -8.5%;
   -ms-transform: rotate(7deg); /* IE 9 */
   left: 60%;
-  background: #a5bf0a  no-repeat;
+  background: #9daa5b  no-repeat;
   -webkit-transition: all 2s ease-in-out;
   transition-durationion: all 2s ease-in-out;  /* Ensures that the element is being transformed in the 3d context so that hw acceleration kicks in where appropriate. */
   -webkit-transform: translate3d(0,0,0);
